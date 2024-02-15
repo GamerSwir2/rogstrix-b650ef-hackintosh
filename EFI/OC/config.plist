@@ -30,6 +30,14 @@
 				<key>Path</key>
 				<string>SSDT-USBX.aml</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-CPUR.aml</string>
+			</dict>
 		</array>
 		<key>Delete</key>
 		<array>
@@ -92,7 +100,7 @@
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>AAA=</data>
+				<data>AA==</data>
 			</dict>
 			<dict>
 				<key>Base</key>
@@ -122,7 +130,7 @@
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>AAA=</data>
+				<data>AA==</data>
 			</dict>
 			<dict>
 				<key>Base</key>
@@ -152,7 +160,7 @@
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>AAA=</data>
+				<data>AA==</data>
 			</dict>
 			<dict>
 				<key>Base</key>
@@ -182,7 +190,7 @@
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>AAA=</data>
+				<data>AA==</data>
 			</dict>
 			<dict>
 				<key>Base</key>
@@ -212,7 +220,7 @@
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>AAA=</data>
+				<data>AA==</data>
 			</dict>
 		</array>
 		<key>Quirks</key>
